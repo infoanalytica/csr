@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="shortcut icon" type="image/png" href="img/favicon.png"/>
+    <link rel="icon" type="image/x-icon" href="img/favicon.png">
     <title>Infoanalytica Foundation</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
@@ -14,6 +14,7 @@
 </head>
 
 <body>
+
     <!--Navbar-->
     <div class="container">
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -27,27 +28,28 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="#aboutus">About-Us</a>
+                        <a class="nav-link float-right" href="#aboutus">About-Us</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#supported">Work</a>
+                        <a class="nav-link float-right" href="#supported">Work</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#initiative">Initiatives</a>
+                        <a class="nav-link float-right" href="#initiative">Initiatives</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#association">Associations</a>
+                        <a class="nav-link float-right" href="#association">Associations</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#team">Team</a>
+                        <a class="nav-link float-right" href="#team">Team</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#instagallery">Gallery</a>
+                        <a class="nav-link float-right" href="#instagallery">Gallery</a>
                     </li>
                 </ul>
             </div>
         </nav>
     </div>
+
     <!-- carousel -->
     <section id="carousel">
         <div class="bd-example">
@@ -60,13 +62,13 @@
                 <div class="carousel-inner">
                 <div class="carousel-item active">
                     <img src="img/new/img-3.jpg" class="d-block w-100" alt="...">
-                    <div class="carousel-caption d-none d-md-block">
+                    <div class="carousel-caption">
                         <h5>CREATING A CULTURE FOR CHANGE.</h5>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <img src="img/new/img-2.jpg" class="d-block w-100" alt="...">
-                    <div class="carousel-caption d-none d-md-block">
+                    <div class="carousel-caption">
                         <!-- <h1>SUPPORT A CAUSE</h1> -->
                         <h5>We work towards providing support and services to society in need.</h5>
                         <a href="#touch" class="btn car-btn-support car-btn-a">SUPPORT A CAUSE</a>
@@ -74,88 +76,33 @@
                 </div>
                 <div class="carousel-item">
                     <img src="img/new/img-5.jpg" class="d-block w-100" alt="...">
-                    <div class="carousel-caption d-none d-md-block">
+                    <div class="carousel-caption">
                         <!-- <h1>VOLUNTEER WITH US</h1> -->
-                        <h5>Volunteer with us and to make a difference.</h5>
+                        <h5>Volunteer with us and make a difference.</h5>
                         <a href="#touch" class="btn car-btn-support car-btn-a">VOLUNTEER WITH US</a>
                     </div>
                 </div>
                 </div>
             </div>
         </div>
-            <!-- <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-                    <ol class="carousel-indicators">
-                      <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-                      <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-                      <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-                      <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-                    </ol>
-                    <div class="carousel-caption d-md-block">
-                        <img src="img/logo_white.png" alt="" class="img-style">
-                    </div>
-                    <div class="carousel-inner slide-cap">
-                      <div class="carousel-item active">
-                        <img src="img/banner-design-01.jpg" class="d-block w-100" alt="...">
-                        <div class="carousel-caption d-md-block">
-                            <h1 class="car-first-h1">CREATING A <br>CULTURE FOR <br>CHANGE.</h1>
-                        </div>
-                      </div>
-                      <div class="carousel-item">
-                        <img src="img/banner-design-02.jpg" class="d-block w-100" alt="...">
-                        <div class="carousel-caption d-md-block">
-                            
-                        </div>
-                      </div>
-                      <div class="carousel-item">
-                        <img src="img/banner-design-03.jpg" class="d-block w-100" alt="...">
-                        <div class="carousel-caption d-md-block">
-                            <h1 class="car-third-h1">SUPPORT A <br>CAUSE</h1>
-                            <h5 class="car-third-h5">We work towards providing support and <br>services to society in need.</h5>
-                            <a href="#touch" class="btn car-btn-support car-btn-a">SUPPORT</a>
-                        </div>
-                      </div>
-                      <div class="carousel-item">
-                        <img src="img/banner-design-04.jpg" class="d-block w-100" alt="...">
-                        <div class="carousel-caption d-md-block">
-                            <h1 class="car-four-h1">VOLUNTEER <br>WITH US</h1>
-                            <h5 class="car-four-h5">Volunteer with us and to <br>make a difference.</h5>
-                            <a href="#touch" class="btn car-btn-support car-btn-a">VOLUNTEER</a>
-                        </div>
-                      </div>
-                    </div>
-                  </div> -->
     </section>
+
     <!-- about us -->
     <section id="aboutus">
         <div class="container">
-            <div class="row">
+            <div class="row text-center">
                 <div class="col-12 abouttitle">
-                <h1 class="sec-title">About Us</h1>
+                    <h1 class="sec-title">About Us</h1>
                 </div>
                 <div class="col-12 abouttitle">
-                    <p class="p-size text-justify text-center">At InfoAnalytica; we understand that we are an integral part of a community beyond our business. Through InfoAnalytica Foundation, our efforts are focused on building equitable and sustainable communities.   We touch thousands of lives through our efforts in the areas of quality education, preventive healthcare, heritage conservation, holistic development and, women empowerment.</p>
-                    <p class="p-size text-justify text-center">We collaborate with academic institutions, development and non-profit organizations to attain shared goals.</p>
+                    <p class="p-size">At InfoAnalytica; we understand that we are an integral part of a community beyond our business. Through InfoAnalytica Foundation, our efforts are focused on building equitable and sustainable communities.   We touch thousands of lives through our efforts in the areas of quality education, preventive healthcare, heritage conservation, holistic development and, women empowerment.</p>
+                    <p class="p-size">We collaborate with academic institutions, development and non-profit organizations to attain shared goals.</p>
                 </div>
-                <!-- <div class="col-md-4 abouttitle text-center">
-                    <h1 class="sec-title">Our Team</h1>
-                    
-                </div> -->
-                <!-- <div class="col-md-3 mt-3">
-                    <h4>Vision</h4>
-                    <p class="p-size text-justify">To have a better informed, skilled, sustainable and empathetic community.</p>
-                </div>
-                <div class="col-md-3 mt-3">
-                    <h4>Mission</h4>
-                    <p class="p-size text-justify">To create a sustainable environment that supports the education of children, skill development for women, spread awareness of our heritage and culture, provide better facilities for differently-abled children and promote sports for a healthier generation.</p>
-                </div> -->
             </div>
         </div>
     </section>
-
     
     <!-- area supported -->
-   
-
     <section id="supported">
         <div class="container">
             <div class="row">
@@ -215,13 +162,34 @@
     </section>
 
     <!-- infographic -->
-
     <section id="info">
-        
-        <div class="row no-gutters">
-            <img src="img/info1.jpg" alt="" style="position: center center; width:100%; height:auto;">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-12 info-banner">
+                    <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+                        <div class="carousel-inner text-center">
+                            <div class="carousel-item active">
+                                <img src="img/6000+.png" class="info-circle">
+                            </div>
+                            <div class="carousel-item">
+                            <img src="img/52.png" class="info-circle">
+                            </div>
+                            <div class="carousel-item">
+                            <img src="img/60+.png" class="info-circle">
+                            </div>
+                        </div>
+                        <a class="carousel-control-prev" href="#carouselExampleSlidesOnly" role="button" data-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="carousel-control-next" href="#carouselExampleSlidesOnly" role="button" data-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Next</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
         </div>
-    
     </section>
 
     <!-- iA initiative -->
@@ -234,38 +202,17 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-4 col-md-6 col-sm-12 initcol">
-                    <div class="row">
-                        <div class="col-3 init-heading-img-div">
-                            <img src="img/Doctor_Dost.png" class="init-heading-img cursor-point" data-toggle="modal" data-target="#doctor-dost">
-                        </div>
-                        <div class="col-9 init-heading">
-                            <h1 data-toggle="modal" data-target="#doctor-dost" class="cursor-point">Doctor<br>Dost</h1>
-                        </div>
-                    </div>
-                   <!--  <p class="p-size text-justify text-center"><!-- Doctor Dost initiative aims at providing quality healthcare facilities accessible and affordable to all. Under this, we partner with doctors, hospitals, government bodies and individuals to provide free medical services to people from the weaker socio-economic background......<a data-toggle="modal" data-target="#doctor-dost" class="cursor-point">Read More</a></p> -->
+                <div class="col-lg-4 col-md-6 col-sm-12 initcol text-center">
+                    <img src="img/Doctor_Dost.png" class="init-heading-img1 cursor-point" data-toggle="modal" data-target="#doctor-dost">
+                    <h1 data-toggle="modal" data-target="#doctor-dost" class="cursor-point">Doctor<br>Dost</h1>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 initcol no-gutters">
-                    <div class="row">
-                        <div class="col-3 init-heading-img-div">
-                            <img src="img/Adopt_an_athelet.png" class="init-heading-img cursor-point" data-toggle="modal" data-target="#adopt-an-athlete">
-                        </div>
-                        <div class="col-9 init-heading">
-                            <h1 data-toggle="modal" data-target="#adopt-an-athlete" class="cursor-point">Adopt an<br>Athlete</h1>
-                        </div>
-                    </div>
-                    <!-- <p class="p-size text-justify text-center"><!-- Adopt an Athlete is an iA Foundation initiative designed to give deserving athletes, from various endurance sports, access to the right resources to improve their performance and compete in relevant competitions, thus achieve their potential athletically......<a data-toggle="modal" data-target="#adopt-an-athlete" class="cursor-point">Read More</a></p> -->
+                <div class="col-lg-4 col-md-6 col-sm-12 initcol no-gutters text-center">
+                    <img src="img/Adopt_an_athelet.png" class="init-heading-img2 cursor-point" data-toggle="modal" data-target="#adopt-an-athlete">
+                    <h1 data-toggle="modal" data-target="#adopt-an-athlete" class="cursor-point">Adopt an<br>Athlete</h1>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 initcol">
-                    <div class="row">
-                        <div class="col-3 init-heading-img-div">
-                            <img src="img/Be_a_book_Doner.png" class="init-heading-img cursor-point" data-toggle="modal" data-target="#book-donor">
-                        </div>
-                        <div class="col-9 init-heading">
-                            <h1 data-toggle="modal" data-target="#book-donor" class="cursor-point">Be A<br>Book Donor</h1>
-                        </div>
-                    </div>
-                    <!-- <p class="p-size text-justify text-center"><!-- We believe in sharing the joy of reading to thousands of children who might otherwise have no access to the right resources. Our initiative, “Be a Book Donor,” in collaboration with Elixir Foundation and Shwas Charitable Trust focuses on setting up rural libraries...... <a data-toggle="modal" data-target="#book-donor" class="cursor-point">Read More</a> <!-- Activities like book reading sessions, quizzes, and competition for rural school will be carried out. We also plan to have mobile libraries as part of this initiative. </p> -->
+                <div class="col-lg-4 col-md-12 initcol text-center">
+                    <img src="img/Be_a_book_Doner.png" class="init-heading-img3 cursor-point" data-toggle="modal" data-target="#book-donor">
+                    <h1 data-toggle="modal" data-target="#book-donor" class="cursor-point">Be A<br>Book Donor</h1>
                 </div>
             </div>
             <div class="row text-center">
@@ -280,7 +227,6 @@
     </section>
    
     <!-- association -->
-
     <section id="association">
         <div class="container-fluid">
             <div class="row">
@@ -293,17 +239,17 @@
                 <div class="col-12 bcolor">
                     <div class="container-fluid" style="margin:2rem 0;">
                         <section class="customer-logos slider">
-                            <div><img src="img/logo/l1.png" style="width:100px; height:100px;"></div>
-                            <div><img src="img/logo/l2.png" style="width:100px; height:100px;"></div>
-                            <div><img src="img/logo/l3.png" style="width:100px; height:100px;"></div>
-                            <div><img src="img/logo/l4.png" style="width:100px; height:100px;"></div>
-                            <div><img src="img/logo/l5.png" style="width:100px; height:100px;"></div>
-                            <div><img src="img/logo/l6.png" style="width:100px; height:100px;"></div>
-                            <div><img src="img/logo/l7.png" style="width:100px; height:100px;"></div>
-                            <div><img src="img/logo/l8.png" style="width:100px; height:100px;"></div>
-                            <div><img src="img/logo/l9.png" style="width:100px; height:100px;"></div>
-                            <div><img src="img/logo/l10.png" style="width:100px; height:100px;"></div>
-                            <div><img src="img/logo/l11.png" style="width:100px; height:100px;"></div>
+                            <div><img src="img/l1.png" class="assocciate-partner-logo"></div>
+                            <div><img src="img/l2.png" class="assocciate-partner-logo"></div>
+                            <div><img src="img/l3.png" class="assocciate-partner-logo"></div>
+                            <div><img src="img/l4.png" class="assocciate-partner-logo"></div>
+                            <div><img src="img/l5.png" class="assocciate-partner-logo"></div>
+                            <div><img src="img/l6.png" class="assocciate-partner-logo"></div>
+                            <div><img src="img/l7.png" class="assocciate-partner-logo"></div>
+                            <div><img src="img/l8.png" class="assocciate-partner-logo"></div>
+                            <div><img src="img/l9.png" class="assocciate-partner-logo"></div>
+                            <div><img src="img/l10.png" class="assocciate-partner-logo"></div>
+                            <div><img src="img/l11.png" class="assocciate-partner-logo"></div>
                         </section>
                         
                     </div>
@@ -313,7 +259,6 @@
     </section>
 
     <!-- Our Team -->
-
     <section id="team">
         <div class="container">
             <div class="row">
@@ -326,17 +271,17 @@
                 <div class="col-lg-8">
                     <div class="row">
                         <div class="col-lg-6 text-center">
-                            <img src="img/association/Supriya_Gupta.jpg" class="card-img-top" alt="" style="border-radius: 50%; width:125px; height:125px;z-index:2;position:relative;">
-                            <div class="card shadow" style="background-color:#fff; padding:3px; border-radius:3px; margin-top:-80px;z-index:1;">
+                            <img src="img/Supriya_Gupta.jpg" class="card-img-top" alt="" style="border-radius: 50%; width:125px; height:125px;z-index:2;position:relative;">
+                            <div class="card shadow margin-on-mobile" style="background-color:#fff; padding:3px; border-radius:3px; margin-top:-80px;z-index:1;">
                                 <div class="card-body text-center" style="background-color:#f7f7f7;padding:20px 12px 12px 18px;">
                                     <h6 style="padding-top:70px; font-size:15px;"><b>Supriya Gupta</b><a href="https://in.linkedin.com/in/supriya-gupta-6b3420174" target="_blank"><i class="fab fa-linkedin float-right text-primary" style="font-size:20px; margin-top:4px;"></i></a></h6>
-                                    <p class="card-text">Manager - Social Responsibility</p>
+                                    <p class="card-text">Consultant - CSR & Admin</p>
                                     <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#supriya-bio">View Bio</a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-6 text-center">
-                            <img src="img/association/Pranav_Gupta.jpg" class="card-img-top" alt="" style="border-radius: 50%; width:125px; height:auto;z-index:2;position:relative;">
+                            <img src="img/Pranav_Gupta.jpg" class="card-img-top" alt="" style="border-radius: 50%; width:125px; height:auto;z-index:2;position:relative;">
                             <div class="card shadow" style="background-color:#fff; padding:3px; border-radius:3px; margin-top:-80px;z-index:1;">
                                 <div class="card-body text-center" style="background-color:#f7f7f7;padding:20px 12px 12px 18px;">
                                     <h6 style="padding-top:70px; font-size:15px;"><b>Pranav Gupta</b><a href="https://in.linkedin.com/in/pranav-gupta-425a31136" target="_blank"><i class="fab fa-linkedin float-right text-primary" style="font-size:20px; margin-top:4px;"></i></a></h6>
@@ -352,7 +297,6 @@
     </section>
     
     <!-- get in touch -->
-
     <section id="touch">
         <div class="container">
             <div class="row">
@@ -397,8 +341,8 @@
                     
             </div>
     </section>
-    <!--Testimonial -->
 
+    <!--Testimonial -->
     <section id="testimonial">
         <div class="container">
             <div class="row">
@@ -430,18 +374,23 @@
 
         </div>
     </section>
+
     <!-- Insta Gallery -->
     <section id="instagallery">
         <div class="container-fluid">
             <div class="row">
+                <div class="col-12 areatitle">
+                    <h1 class="sec-title">Gallery</h1>
+                </div>
+            </div>
+            <div class="row" style="margin-top:2rem;">
                 <div class="col-12">
-                    <!-- LightWidget WIDGET -->
-                    <script src="http://cdn.lightwidget.com/widgets/lightwidget.js"></script>
-                    <iframe src="//lightwidget.com/widgets/98328069c0fb5d41b75b87a02b9ced03.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
+                    <!-- LightWidget WIDGET --><script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/77867f72dd93592bab9fdbbdc5894ca0.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
                 </div>
             </div>
         </div>
     </section>
+
     <!-- Modal -->
         <!-- Education -->
         <div class="modal fade" id="modal-education" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
@@ -463,7 +412,7 @@
                     </button>
                 </div>
                 <div class="modal-body p-size text-justify">
-                    <p>At IA Foundation, we believe, education and skill development are the cornerstones of a progressive community.  Through quality education and skill enhancement initiatives, we seek to provide a better future, quality living, and livelihood. We’ve tried benefitting the lives of over 1,500 children by collaborating with various academic institutions and, individuals in providing, supplementary education, school kits, uniforms and, mid-day meals under various initiatives.</p>
+                    <p>At infoAnalytica Foundation, we believe, education and skill development are the cornerstones of a progressive community.  Through quality education and skill enhancement initiatives, we seek to provide a better future, quality living, and livelihood. We’ve tried benefitting the lives of over 1,500 children by collaborating with various academic institutions and, individuals in providing, supplementary education, school kits, uniforms and, mid-day meals under various initiatives.</p>
                 </div>
                 <div class="modal-footer">
                     <button type="button" class="btn btn-model-close" data-dismiss="modal">Close</button>
@@ -523,7 +472,7 @@
                     </button>
                 </div>
                 <div class="modal-body p-size text-justify">
-                    <p>At IA Foundation, we believe, our cultural and natural heritage are both irreplaceable sources of life and inspiration. We encourage and take an active part in initiatives that help us, as a community in conserving, preserving and promoting our rich heritage.</p>
+                    <p>At infoAnalytica Foundation, we believe, our cultural and natural heritage are both irreplaceable sources of life and inspiration. We encourage and take an active part in initiatives that help us, as a community in conserving, preserving and promoting our rich heritage.</p>
                     <p>Under the World Heritage Volunteers (WHV) program, we sensitize youth towards heritage conservation and partner with the local communities, organizations, and institutions in organizing action camps. By associating with ‘Samraga - The Festival of Indian Classical Music,’ we do our bit in promoting the rich Indian Classical Music lineage.</p>
                 </div>
                 <div class="modal-footer">
@@ -554,7 +503,7 @@
                 </div>
                 <div class="modal-body p-size text-justify">
                     <p>The value of sport to the societies and communities extends beyond sport for sport’s sake. Sport play a major role in youth development, bringing communities together and, developing cultural and social capital. 
-                        With initiatives such as; ‘Adopt an Athlete’; IA Foundation aims to give deserving athletes, from various endurance sports, access to the right resources to improve their performance and compete in relevant competitions, thus achieve their potential athletically.
+                        With initiatives such as; ‘Adopt an Athlete’; infoAnalytica Foundation aims to give deserving athletes, from various endurance sports, access to the right resources to improve their performance and compete in relevant competitions, thus achieve their potential athletically.
                     </p>
                 </div>
                 <div class="modal-footer">
@@ -584,7 +533,7 @@
                     </button>
                 </div>
                 <div class="modal-body p-size text-justify">
-                    <p>At IA Foundation, we firmly believe that women have tremendous potential to transform our societies, economies, and businesses. While at the workplace, we offer equal opportunities and fair treatment to both women and men, outside we align with various women empowerment groups and initiatives to spread awareness and create an equitable society.</p>
+                    <p>At infoAnalytica Foundation, we firmly believe that women have tremendous potential to transform our societies, economies, and businesses. While at the workplace, we offer equal opportunities and fair treatment to both women and men, outside we align with various women empowerment groups and initiatives to spread awareness and create an equitable society.</p>
                     <p>One such initiative is, setting up of ‘Stitching Centre’ in association with the Pink Foundation to help women have a self-sustainable future and manage their finances.</p>
                 </div>
                 <div class="modal-footer">
@@ -673,7 +622,7 @@
                                 </div>
                                 <div id="collapseFive" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
                                 <div class="card-body card-body-more p-size-more text-justify">
-                                    <p>Every IA Foundation volunteer have taken an oath to plant a sapling a year on World Environment Day</p>
+                                    <p>Every infoAnalytica Foundation volunteer have taken an oath to plant a sapling a year on World Environment Day</p>
                                 </div>
                                 </div>
                             </div>
@@ -685,6 +634,7 @@
                 </div>
             </div>
         </div>
+
         <!-- More Avtivities End-->
         <!-- Doctor Dost -->
         <div class="modal fade" id="doctor-dost" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
@@ -705,7 +655,7 @@
             <div class="modal-dialog modal-dialog-centered" role="document">
                 <div class="modal-content">
                 <div class="modal-body p-size text-justify">
-                    <p>Adopt an Athlete is an iA Foundation initiative designed to give deserving athletes, from various endurance sports, access to the right resources to improve their performance and compete in relevant competitions, thus achieve their potential athletically 42.1 has partnered with iA Foundation to manage this program. Through this association, 42.1 looks to mentor budding athletes and help them train better. Resources are currently limited to those pursuing athletics or multisport, such as running, cycling, swimming, triathlon, tennis, and cricket. However, other endurance sports will be considered.</p>
+                    <p>Adopt an Athlete is an infoAnalytica Foundation initiative designed to give deserving athletes, from various endurance sports, access to the right resources to improve their performance and compete in relevant competitions, thus achieve their potential athletically 42.1 has partnered with infoAnalytica Foundation to manage this program. Through this association, 42.1 looks to mentor budding athletes and help them train better. Resources are currently limited to those pursuing athletics or multisport, such as running, cycling, swimming, triathlon, tennis, and cricket. However, other endurance sports will be considered.</p>
                 </div>
                 <div class="modal-footer">
                     <button type="button" class="btn btn-model-close" data-dismiss="modal">Close</button>
@@ -726,15 +676,16 @@
                 </div>
             </div>
         </div>
-    <!-- model end-->   
+    
+
     <!-- supriya's bio -->
     <div class="modal fade" id="supriya-bio" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered" role="document">
             <div class="modal-content">
             <div class="modal-body p-size text-justify">
                 <h4 style="margin-bottom:3px;">SUPRIYA GUPTA</h4>
-                <h6 style="margin-bottom:15px;">Manager Social Responsibility</h6>
-                <p>Supriya Gupta leads iA Foundation and is responsible for managing and driving the CSR activities for infoAnalytica, Inc. Besides her expertise in the CSR domain and the Sustainability initiatives, she continues to provide her thought leadership and contribution towards the foundation’s education, healthcare, heritage, and women empowerment initiatives. Supriya has been instrumental in spearheading the CSR activities for infoAnalytica that can be seen in its various community outreach programs, which are thoughtfully designed to reach, engage, and empower the communities in and around Ahmedabad.</p>
+                <h6 style="margin-bottom:15px;">Consultant - CSR & Admin    </h6>
+                <p>Supriya Gupta leads infoAnalytica Foundation and is responsible for managing and driving the CSR activities for infoAnalytica, Inc. Besides her expertise in the CSR domain and the Sustainability initiatives, she continues to provide her thought leadership and contribution towards the foundation’s education, healthcare, heritage, and women empowerment initiatives. Supriya has been instrumental in spearheading the CSR activities for infoAnalytica that can be seen in its various community outreach programs, which are thoughtfully designed to reach, engage, and empower the communities in and around Ahmedabad.</p>
                 <p>She is an MBA Graduate who loves traveling, dancing, meeting people, researching education models, and understanding sustainability. She is a visiting faculty at NID, Ahmedabad University, and has also been the coordinator for Gujarat in society for the promotion of Indian classical music and arts amongst the youth.</p>
             </div>
             <div class="modal-footer">
@@ -758,9 +709,9 @@
             </div>
         </div>
     </div>
-    <!-- book donor -->
-    <!--Footer-->
 
+    <!-- model end-->  
+    <!--Footer-->
     <footer class="footer">
         <div class="container">
             <div class="row">
@@ -769,11 +720,8 @@
                     <h6 class="copyright-style-footer p-size">© 2007-2019 infoAnalytica, Inc. All Rights Reserved.</h6>
                     <a href="https://www.facebook.com/infoanalyticacsr" target="_blank"><img src="img/facebook.png" alt="" class="img-social-media"></a>
                     <a href="https://www.instagram.com/infoanalytica_foundation/" target="_blank"><img src="img/instagram.png" alt="" class="img-social-media"></a>
-                    <a href="https://www.instagram.com/infoanalytica_foundation/" target="_blank"><img src="img/twitter.png" alt="" class="img-social-media"></a>
-                    <!--<img src="img/twitter.png" alt="" class="img-social-media">
-                    <img src="img/linkedin.png" alt="" class="img-social-media">-->
+                    <a href="https://twitter.com/iA_csr" target="_blank"><img src="img/twitter.png" alt="" class="img-social-media"></a>
                 </div>
-
                 <div class="col-xl-8 col-lg-8 col-md-12">
                     <div class="row mobile-margin">
                         <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 company-style">
@@ -818,10 +766,7 @@
         integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
         crossorigin="anonymous"></script>
 
-        
     <!-- start-smoth-scrolling -->
-
-
     <script type="text/javascript">
         $('a').on('click', function(event) {
             if (this.hash !== '') {
@@ -859,7 +804,5 @@
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 
         <script src="js/carousel.js"></script>
-        
     </body>
-
 </html>

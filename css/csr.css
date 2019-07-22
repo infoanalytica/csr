@@ -112,7 +112,8 @@ body{
     top: -540%;
     z-index: 10;
 }
-.carousel-item img{
+ .carousel-item img{
+    width: 100%;
     height: 400px;  
 }
 .show1{
@@ -121,7 +122,7 @@ body{
 
 /* about us*/
 #aboutus{
-    padding: 2rem 0;
+    padding: 2rem 0 0 0;
     background: url('../img/Blub_color_banner.png');
     background-size: auto 100%;
     background-repeat: no-repeat;
@@ -181,7 +182,7 @@ body{
 /*supported section*/
 #supported{
     background: #fff;
-    padding: 2rem 0;
+    padding: 2rem 0 0 0;
 }
 
 #supported .areatitle{
@@ -246,9 +247,43 @@ body:not(.modal-open){
 }
 
 #info{
-    background: #fff;
-    padding: 0 0 2rem 0;
+    background: #fff; 
+    padding: 2rem 0 2rem 0;
 }
+.info-banner{
+    background-image: url("../img/info21.jpg");
+    height: 300px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    padding-top:2.5rem;
+}
+.info-circle
+{
+    width:218px !important; 
+    height:auto !important;
+}
+.carousel-control-next, .carousel-control-prev
+{
+    opacity: 1;
+}
+.carousel-control-next-icon {
+    background-image: url("../img/arrow.png") !important;
+    width: 30px;
+    height: 30px;
+}
+.carousel-control-prev-icon {
+    background-image: url("../img/arrow.png") !important;
+    width: 30px;
+    height: 30px;
+    transform: rotate(180deg);
+}
+
+/* .back-image
+{
+    
+} */
 
 /* accordion modal */
 .btn-link{
@@ -315,11 +350,20 @@ body:not(.modal-open){
 .init-heading-img-div{
     position:relative;
 }
-.init-heading-img{
+.init-heading-img1{
     width:65px;
     height:auto;
     bottom:0;
-    position:absolute;
+}
+.init-heading-img2{
+    width:78px;
+    height:auto;
+    bottom:0;
+}
+.init-heading-img3{
+    width:78px;
+    height:auto;
+    bottom:0;
 }
 #initiative .col-9{
     padding-left: 1.5rem;
@@ -339,8 +383,7 @@ body:not(.modal-open){
 
 #association{
     background: #fff;
-    padding-top: 5rem;
-    padding-bottom: 2rem;
+    padding-top: 2rem;
 }
 #association .areatitle{
 
@@ -358,8 +401,8 @@ body:not(.modal-open){
     background: #ed592b;
 }
 .assocciate-partner-logo{
-    width:88px; 
-    height:auto;
+    width:100px!important; 
+    height:100px!important;
 }
 .fillform{
     color:black;
@@ -372,7 +415,7 @@ body:not(.modal-open){
 /*our team*/
 #team{
     background: #fff;
-    padding: 2rem 0;
+    padding: 2rem 0 0 0;
 }
 #team .areatitle{
 
@@ -387,7 +430,7 @@ body:not(.modal-open){
 /* get in touch section*/
 #touch{
     background: #fff;
-    padding: 2rem 0;
+    padding: 3rem 0 0 0;
 }
 #touch .areatitle{
 
@@ -419,7 +462,7 @@ body:not(.modal-open){
 
 #testimonial{
     background: #fff;
-    padding: 2rem 0;
+    padding: 2rem 0 0 0;
 }
 
 #testimonial .areatitle{
@@ -482,6 +525,17 @@ body:not(.modal-open){
     margin-bottom:0.2rem;
 }
 /*instagallery section*/
+#instagallery .areatitle{
+
+    text-align: center;
+}
+
+#instagallery .areatitle h1{
+
+    font-size: 2rem;
+    margin-bottom: 0;
+    color: #0c4da2;
+}
 #instagallery{
     background: #fff;
     padding: 2rem 0;
@@ -634,6 +688,9 @@ body:not(.modal-open){
 /*Media Query*/
 
 @media screen and (max-width:1600px){
+    .carousel-item img{
+        height: 500px;  
+    }
 }
 
 @media screen and (max-width:1280px){ 
@@ -655,10 +712,10 @@ body:not(.modal-open){
     .p-width{
         width:auto;
     }
-    .abouttitle {
-        padding-left: 4rem;
+    .carousel-item img{
+        width: 100%;
+        height: 400px;  
     }
-    
 }
 
 @media screen and (max-width:1024px){
@@ -673,9 +730,6 @@ body:not(.modal-open){
     .car-img1-padding {
         margin-top: 3rem;
         padding-left: 0.5rem;
-    }
-    .abouttitle {
-        padding-left: 8rem;
     }
     /* area supported */
     
@@ -740,10 +794,6 @@ body:not(.modal-open){
     #initiative .initcol h1 {
         font-size: 1.4rem;
     }
-    .init-heading-img {
-        width: 60px;
-    }
-    
     /* association */
     #association {
         padding-top: 2rem;
@@ -756,6 +806,10 @@ body:not(.modal-open){
         padding: 1rem;
     }
 
+    /* Team */
+    .margin-on-mobile{
+        margin-bottom: 2rem;
+    }
     /* Footer */
     .img-style-footer{
         width:150px; 
@@ -788,6 +842,10 @@ body:not(.modal-open){
         font-size: 13px;
         line-height: 22px;
     }
+    .carousel-item img{
+        width: 100%;
+        height: 300px;  
+    }
 }
 
 @media screen and (max-width:768px){
@@ -810,6 +868,7 @@ body:not(.modal-open){
     .car-four-h5{
         margin-left: -78px;
     }
+   
         /*about us*/
         #aboutus{
             background: none;
@@ -831,10 +890,7 @@ body:not(.modal-open){
         .init-heading-img-div{
             padding-left:25px;
         }
-        .init-heading-img{
-            width:54px;
-        }
-    
+           
         /* association */
         
         
@@ -880,11 +936,12 @@ body:not(.modal-open){
     .car-four-h5{
         margin-left: -46px;
     }
+    .carousel-item img{
+        width: 100%;
+        height: 270px;  
+    }
    
      /* carousel */
-     .carousel-item img{
-        height: 250px;  
-    }
      .img-style {
         width: 104px;
         top: -440%;
@@ -959,7 +1016,16 @@ body:not(.modal-open){
     .car-four-h5{
         margin-left: -58px;
     }
-    
+    .carousel-item img{
+        width: 100%;
+        height: 210px;  
+    }
+    .carousel-caption h5{
+        font-size: 1rem;
+    }
+    .carousel-caption{
+        padding-bottom: 10px;
+    }
    
 }
 
@@ -1053,6 +1119,11 @@ body:not(.modal-open){
         margin-left: -1rem;
     }
     
+    /*association*/
+    .assocciate-partner-logo{
+        width: 88px !important;
+        height: 88px !important;
+    }
 
     /* get in touch */
     .getin-touch-col-padding{
@@ -1073,13 +1144,35 @@ body:not(.modal-open){
     .slide-cap h1 {
         font-size: 14px;
         line-height: 19px;
-        
     }
-  
+    .carousel-item img{
+        width: 100%;
+        height: 170px;  
+    }
+     /*association*/
+     .assocciate-partner-logo{
+        width: 75px !important;
+        height: 75px !important;
+    }
+    
+    /*InfoGraphic*/
+    .info-circle
+    {
+        width:180px !important; 
+        height: auto !important;
+    }
+    .info-banner{
+        padding-top:4rem;
+    }
 } 
 
 @media screen and (max-width:360px){
 } 
 
 @media screen and (max-width:320px){
+     /*association*/
+     .assocciate-partner-logo{
+        width: 65px !important;
+        height: 65px !important;
+    }
 }
