@@ -40,7 +40,7 @@ if($otherGuid=="on"){
 $agree = "<input type='checkbox' checked disabled> ";*/
 
 
-$to = "mithilesh.joshi@ia.com";
+$to = "mithilesh.j@infoanalytica.com";
 
 
 if($name!=""){

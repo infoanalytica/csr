@@ -31,7 +31,7 @@
                         <a class="nav-link float-right" href="#aboutus">About-Us</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link float-right" href="#supported">Work</a>
+                        <a class="nav-link float-right" href="#supported">Project</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link float-right" href="#initiative">Initiatives</a>
@@ -107,8 +107,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-12 areatitle">
-                    <h1 class="sec-title">Our Areas of Work</h1>
-                    <p class="p-size">By focusing our efforts on these five areas we aim to driving a positive social change.</p>
+                    <h1 class="sec-title">Our Project</h1>
+                    <p class="p-size">By focusing our efforts on these five areas we aim to drive a positive social change.</p>
                 </div>
             </div>
             <div class="row justify-content-center cm">
