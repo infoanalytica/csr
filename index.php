@@ -55,33 +55,37 @@
         <div class="bd-example">
             <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
                 <ol class="carousel-indicators">
-                <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
-                <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
-                <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
+                    <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
+                    <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
+                    <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
+                    <li data-target="#carouselExampleCaptions" data-slide-to="3"></li>
                 </ol>
                 <div class="carousel-inner">
-                <div class="carousel-item active">
-                    <img src="img/new/img-3.jpg" class="d-block w-100" alt="...">
-                    <div class="carousel-caption">
-                        <h5>CREATING A CULTURE FOR CHANGE.</h5>
+                    <div class="carousel-item active">
+                        <img src="img/new/img-3.jpg" class="d-block w-100" alt="...">
+                        <div class="carousel-caption">
+                            <h5>CREATING A CULTURE FOR CHANGE.</h5>
+                        </div>
                     </div>
-                </div>
-                <div class="carousel-item">
-                    <img src="img/new/img-2.jpg" class="d-block w-100" alt="...">
-                    <div class="carousel-caption">
-                        <!-- <h1>SUPPORT A CAUSE</h1> -->
-                        <h5>We work towards providing support and services to society in need.</h5>
-                        <a href="#touch" class="btn car-btn-support car-btn-a">SUPPORT A CAUSE</a>
+                    <div class="carousel-item">
+                        <img src="img/new/img-1.jpg" class="d-block w-100" alt="...">
                     </div>
-                </div>
-                <div class="carousel-item">
-                    <img src="img/new/img-5.jpg" class="d-block w-100" alt="...">
-                    <div class="carousel-caption">
-                        <!-- <h1>VOLUNTEER WITH US</h1> -->
-                        <h5>Volunteer with us and make a difference.</h5>
-                        <a href="#touch" class="btn car-btn-support car-btn-a">VOLUNTEER WITH US</a>
+                    <div class="carousel-item">
+                        <img src="img/new/img-2.jpg" class="d-block w-100" alt="...">
+                        <div class="carousel-caption">
+                            <!-- <h1>SUPPORT A CAUSE</h1> -->
+                            <h5>We work towards providing support and services to society in need.</h5>
+                            <a href="#touch" class="btn car-btn-support car-btn-a">SUPPORT A CAUSE</a>
+                        </div>
                     </div>
-                </div>
+                    <div class="carousel-item">
+                        <img src="img/new/img-5.jpg" class="d-block w-100" alt="...">
+                        <div class="carousel-caption">
+                            <!-- <h1>VOLUNTEER WITH US</h1> -->
+                            <h5>Volunteer with us and make a difference.</h5>
+                            <a href="#touch" class="btn car-btn-support car-btn-a">VOLUNTEER WITH US</a>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -202,17 +206,21 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-4 col-md-6 col-sm-12 initcol text-center">
+                <div class="col-lg-3 col-md-6 col-sm-12 initcol text-center">
                     <img src="img/Doctor_Dost.png" class="init-heading-img1 cursor-point" data-toggle="modal" data-target="#doctor-dost">
                     <h1 data-toggle="modal" data-target="#doctor-dost" class="cursor-point">Doctor<br>Dost</h1>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 initcol no-gutters text-center">
+                <div class="col-lg-3 col-md-6 col-sm-12 initcol no-gutters text-center">
                     <img src="img/Adopt_an_athelet.png" class="init-heading-img2 cursor-point" data-toggle="modal" data-target="#adopt-an-athlete">
                     <h1 data-toggle="modal" data-target="#adopt-an-athlete" class="cursor-point">Adopt an<br>Athlete</h1>
                 </div>
-                <div class="col-lg-4 col-md-12 initcol text-center">
+                <div class="col-lg-3 col-md-6 col-sm-12 initcol text-center">
                     <img src="img/Be_a_book_Doner.png" class="init-heading-img3 cursor-point" data-toggle="modal" data-target="#book-donor">
                     <h1 data-toggle="modal" data-target="#book-donor" class="cursor-point">Be A<br>Book Donor</h1>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-12 initcol text-center">
+                    <img src="img/Sab_Ke_Sapne.png" class="init-heading-img3 cursor-point" data-toggle="modal" data-target="#sabke-sapne">
+                    <h1 data-toggle="modal" data-target="#sabke-sapne" class="cursor-point">Sab Ke<br>Sapne</h1>
                 </div>
             </div>
             <div class="row text-center">
@@ -673,6 +681,19 @@
                 <div class="modal-footer">
                     <button type="button" class="btn btn-model-close" data-dismiss="modal">Close</button>
                 </div>
+                </div>
+            </div>
+        </div>
+        <!-- sabke sapne -->
+        <div class="modal fade" id="sabke-sapne" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered" role="document">
+                <div class="modal-content">
+                    <div class="modal-body p-size text-justify">
+                        <p>Sabke Sapne aims at providing scholarships to the bright and aspiring talent across any stream. infoAnalytica Foundation supports talent in any form such as education, dance, sports, music, etc. intending to boost the right talent for the upliftment of the society.</p>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-model-close" data-dismiss="modal">Close</button>
+                    </div>
                 </div>
             </div>
         </div>
