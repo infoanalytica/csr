@@ -69,6 +69,10 @@
                     </div>
                     <div class="carousel-item">
                         <img src="img/new/img-1.jpg" class="d-block w-100" alt="...">
+                        <div class="carousel-caption">
+                            <!-- <h1>SUPPORT A CAUSE</h1> -->
+                            <a href="news.php" class="btn car-btn-support car-btn-a">KNOW MORE</a>
+                        </div>
                     </div>
                     <div class="carousel-item">
                         <img src="img/new/img-2.jpg" class="d-block w-100" alt="...">
