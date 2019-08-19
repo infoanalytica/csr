@@ -318,7 +318,7 @@
             </div>
             <div class="row">
                 <div class="col-12 getin-touch-col-padding">
-                    <form style="margin-top:2rem;" action="send.php" id="myForm" onsubmit="return formSubmit();" method="post">
+                    <form style="margin-top:2rem;" action="send.php" id="myForm" method="post">
                         <div class="form-row">
                             <div class="form-group col-md-4">
                                 <input type="text" class="form-control" id="inputName4" placeholder="NAME" name="name" required=""> 

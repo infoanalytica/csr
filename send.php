@@ -7,41 +7,7 @@ $number = $_POST['number'];
 $subject = $_POST['subject'];
 $message = $_POST['message'];
 
-
-
-/*if($running=="on"){
-  $running = "<input type='checkbox' checked disabled> ";
-}
-if($longDist=="on"){
-  $longDist = "<input type='checkbox' checked disabled> ";
-}if($cycling=="on"){
-  $cycling = "<input type='checkbox' checked disabled> ";
-}if($swimming=="on"){
-  $swimming = "<input type='checkbox' checked disabled> ";
-}if($triathlons=="on"){
-  $triathlons = "<input type='checkbox' checked disabled> ";
-}if($training=="on"){
-  $training = "<input type='checkbox' checked disabled> ";
-}if($tech=="on"){
-  $tech = "<input type='checkbox' checked disabled> ";
-}if($nutrition=="on"){
-  $nutrition = "<input type='checkbox' checked disabled> ";
-}if($injury=="on"){
-  $injury = "<input type='checkbox' checked disabled> ";
-}if($racing=="on"){
-  $racing = "<input type='checkbox' checked disabled> ";
-}
-
-if($otherGuid=="on"){
-  $otherGuid = "<input type='checkbox' checked disabled> ";
-}
-
-
-$agree = "<input type='checkbox' checked disabled> ";*/
-
-
 $to = "mithilesh.j@infoanalytica.com";
-
 
 if($name!=""){
 
@@ -99,7 +65,7 @@ $headers .= 'From: <marketing@42point1.com>' . "\r\n";
 //$headers .= 'Cc: myboss@example.com' . "\r\n";
 
 mail($to,$subject,$msg,$headers);
-//echo "<script type='text/javascript'>window.location.href = 'http://localhost:8080/csr/';</script>";
+echo "<script type='text/javascript'>window.location.href = 'http://csr.infoanalytica.com/';</script>";
 //echo "this is call send mail";
 }
 ?>
