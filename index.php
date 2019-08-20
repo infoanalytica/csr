@@ -16,39 +16,7 @@
 <body>
 
     <!--Navbar-->
-    <div class="container">
-        <nav class="navbar navbar-expand-lg navbar-light bg-light">
-            <a class="navbar-brand" href="http://csr.infoanalytica.com/">
-                <img src="img/iA_Foundation_color.png" width="120" alt="">
-            </a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-
-            <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav ml-auto">
-                    <li class="nav-item">
-                        <a class="nav-link float-right" href="#aboutus">About-Us</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link float-right" href="#supported">Projects</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link float-right" href="#initiative">Initiatives</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link float-right" href="#association">Associations</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link float-right" href="#team">Team</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link float-right" href="#instagallery">Gallery</a>
-                    </li>
-                </ul>
-            </div>
-        </nav>
-    </div>
+    <?php include "include/header.php" ?>
 
     <!-- carousel -->
     <section id="carousel">
@@ -71,7 +39,7 @@
                         <img src="img/new/img-1.jpg" class="d-block w-100" alt="...">
                         <div class="carousel-caption">
                             <!-- <h1>SUPPORT A CAUSE</h1> -->
-                            <a href="news.php" class="btn car-btn-support car-btn-a">KNOW MORE</a>
+                            <a href="<?php echo $server_name ?>news.php" class="btn car-btn-support car-btn-a">KNOW MORE</a>
                         </div>
                     </div>
                     <div class="carousel-item">
@@ -737,49 +705,7 @@
 
     <!-- model end-->  
     <!--Footer-->
-    <footer class="footer">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                    <a href="http://csr.infoanalytica.com/"><img src="img/iA_Foundation_color.png" alt="" class="img-style-footer"></a>
-                    <h6 class="copyright-style-footer p-size">© 2007-2019 infoAnalytica, Inc. All Rights Reserved.</h6>
-                    <a href="https://www.facebook.com/infoanalyticacsr" target="_blank"><img src="img/facebook.png" alt="" class="img-social-media"></a>
-                    <a href="https://www.instagram.com/infoanalytica_foundation/" target="_blank"><img src="img/instagram.png" alt="" class="img-social-media"></a>
-                    <a href="https://twitter.com/iA_csr" target="_blank"><img src="img/twitter.png" alt="" class="img-social-media"></a>
-                </div>
-                <div class="col-xl-8 col-lg-8 col-md-12">
-                    <div class="row mobile-margin">
-                        <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 company-style">
-                            <h6>COMPANY</h6>
-                            <ul class="footer-ul">
-                                <li><a href="https://www.infoanalytica.com/about-us" target="_blank" class="company-a p-size">About Us</a></li>
-                                <li><a href="https://www.infoanalytica.com/leadership" target="_blank" class="company-a p-size">Leadership</a></li>
-                                <li><a href="https://www.infoanalytica.com/careers" target="_blank" class="company-a p-size">Careers</a></li>
-                                <li><a href="https://www.infoanalytica.com/contact-us" target="_blank" class="company-a p-size">Contact</a></li>
-                                <li><a href="https://www.infoanalytica.com/privacy-policy" target="_blank" class="company-a p-size">Privacy Policy</a></li>
-                            </ul>
-                        </div>
-                        <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12">
-                            <h6>RESOURCES</h6>
-                            <ul class="footer-ul">
-                                <li><a href="#" class="company-a p-size">Case Studies</a></li>
-                                <li><a href="newsletter.php" class="company-a p-size">News</a></li>
-                            </ul>
-                        </div>
-                        <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12">
-                            <h6>CONNECT WITH US</h6>
-                            <ul class="footer-ul">
-                                <li><span><i class="fas fa-map-pin"></i></span><span class="p-size"> 5th & 6th Floor, A Wing, Westgate, Beside YMCA Club, SG Highway, Makarba, Ahmedabad, Gujarat 380015</span></li>
-                                <li><span><i class="fas fa-phone-square"></i></span><a href="tel:07966 11 80 50" class="company-a p-size"> 07966 11 80 50</a></li>
-                                <li><span><i class="fas fa-phone-square"></i></span><a href="tel:9727 98 89 01" class="company-a p-size"> 9727 98 89 01</a></li>
-                                <li><span><i class="fas fa-envelope"></i></span> <a href="mailto:csr@infoanalytica.com" class="company-a p-size">csr@infoanalytica.com</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
+    <?php include "include/footer.php" ?>
      
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
         integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
