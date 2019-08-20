@@ -18,7 +18,7 @@
     <!--Navbar-->
     <div class="container">
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
-            <a class="navbar-brand" href="#">
+            <a class="navbar-brand" href="http://csr.infoanalytica.com/">
                 <img src="img/iA_Foundation_color.png" width="120" alt="">
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -741,7 +741,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                    <img src="img/iA_Foundation_color.png" alt="" class="img-style-footer">
+                    <a href="http://csr.infoanalytica.com/"><img src="img/iA_Foundation_color.png" alt="" class="img-style-footer"></a>
                     <h6 class="copyright-style-footer p-size">© 2007-2019 infoAnalytica, Inc. All Rights Reserved.</h6>
                     <a href="https://www.facebook.com/infoanalyticacsr" target="_blank"><img src="img/facebook.png" alt="" class="img-social-media"></a>
                     <a href="https://www.instagram.com/infoanalytica_foundation/" target="_blank"><img src="img/instagram.png" alt="" class="img-social-media"></a>
@@ -762,8 +762,8 @@
                         <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12">
                             <h6>RESOURCES</h6>
                             <ul class="footer-ul">
-                                <li><a class="p-size">Case Studies</a></li>
-                                <li><a class="p-size">News</a></li>
+                                <li><a href="#" class="company-a p-size">Case Studies</a></li>
+                                <li><a href="newsletter.php" class="company-a p-size">News</a></li>
                             </ul>
                         </div>
                         <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12">
