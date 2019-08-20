@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html>
-<title>News-Latter</title>
+<title>Beyond Balance Sheets - Impacting Lives</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" type="image/x-icon" href="img/favicon.png">
 <link rel="stylesheet" href="news.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
 <style>

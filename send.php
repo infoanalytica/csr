@@ -7,7 +7,7 @@ $number = $_POST['number'];
 $subject = $_POST['subject'];
 $message = $_POST['message'];
 
-$to = "mithilesh.j@infoanalytica.com";
+$to = "csr@infoanalytica.com";
 
 if($name!=""){
 
@@ -32,7 +32,7 @@ background: #B2D430;
 
 <table border='1' width='500' >
 <tr>
- <th class='back_header' colspan='6'>MEMBERSHIP FORM</th>
+ <th class='back_header' colspan='6'>GET IN TOUCH</th>
 </tr>
 <tr>
  <td width='20%' colspan='2'><strong>First Name</strong></td>
@@ -47,7 +47,11 @@ background: #B2D430;
  <td colspan='4'>".$number."</td>
 </tr>
 <tr>
- <td colspan='2'><strong>Mobile Number</strong></td>
+ <td colspan='2'><strong>Subject</strong></td>
+ <td colspan='4'>".$subject."</td>
+</tr>
+<tr>
+ <td colspan='2'><strong>Message</strong></td>
  <td colspan='4'>".$message."</td>
 </tr>
 
@@ -61,7 +65,7 @@ $headers = "MIME-Version: 1.0" . "\r\n";
 $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
 
 // More headers
-$headers .= 'From: <marketing@42point1.com>' . "\r\n";
+$headers .= 'From: <csr@infoanalytica.com>' . "\r\n";
 //$headers .= 'Cc: myboss@example.com' . "\r\n";
 
 mail($to,$subject,$msg,$headers);
