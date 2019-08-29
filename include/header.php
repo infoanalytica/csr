@@ -1,13 +1,13 @@
 <?php 
     /*$server_name = "http://localhost:8080/csr - live/";*/
-	/*$server_name = "http://192.168.1.172:8080/42.1_prod/";*/
+	/*$server_name = "http://192.168.1.172:8080/csr - live/";*/
 	$server_name = "http://csr.infoanalytica.com/";
 ?>
 
 <div class="container">
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
             <a class="navbar-brand" href="http://csr.infoanalytica.com/">
-                <img src="img/iA_Foundation_color.png" width="120" alt="">
+                <img src="http://csr.infoanalytica.com/img/iA_Foundation_color.png" width="120" alt="">
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>

@@ -22,6 +22,27 @@ body{
     left: calc(50% - 20px);
     right: auto;
 }
+.news-title
+{
+    position: relative;
+    display: inline-block;
+    font-weight: 700!important;
+}
+.news-title::after {
+    content: "";
+    position: absolute;
+    bottom: -12.5px;
+    width: 40px;
+    height: 3px;
+    background: #ff6f4c;
+    left: 0!important;
+    right: auto;
+}
+.news-date
+{
+    margin-top:1rem;
+    font-weight: 700!important;
+}
 .sec-title-white
 {
     position: relative;
@@ -750,7 +771,10 @@ body:not(.modal-open){
         margin-top:2rem;
     }
     
-
+    .news-title
+    {
+        font-size: 2rem;
+    }
     /* carousel 
     .img-style {
         width: 179px;
@@ -1026,7 +1050,6 @@ body:not(.modal-open){
     .carousel-caption{
         padding-bottom: 10px;
     }
-   
 }
 
 @media screen and (max-width:414px){

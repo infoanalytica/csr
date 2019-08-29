@@ -2,11 +2,11 @@
         <div class="container">
             <div class="row">
                 <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                    <a href="http://csr.infoanalytica.com/"><img src="img/iA_Foundation_color.png" alt="" class="img-style-footer"></a>
+                    <a href="http://csr.infoanalytica.com/"><img src="http://csr.infoanalytica.com/img/iA_Foundation_color.png" alt="" class="img-style-footer"></a>
                     <h6 class="copyright-style-footer p-size">© 2007-2019 infoAnalytica, Inc. All Rights Reserved.</h6>
-                    <a href="https://www.facebook.com/infoanalyticacsr" target="_blank"><img src="img/facebook.png" alt="" class="img-social-media"></a>
-                    <a href="https://www.instagram.com/infoanalytica_foundation/" target="_blank"><img src="img/instagram.png" alt="" class="img-social-media"></a>
-                    <a href="https://twitter.com/iA_csr" target="_blank"><img src="img/twitter.png" alt="" class="img-social-media"></a>
+                    <a href="https://www.facebook.com/infoanalyticacsr" target="_blank"><img src="http://csr.infoanalytica.com/img/facebook.png" alt="" class="img-social-media"></a>
+                    <a href="https://www.instagram.com/infoanalytica_foundation/" target="_blank"><img src="http://csr.infoanalytica.com/img/instagram.png" alt="" class="img-social-media"></a>
+                    <a href="https://twitter.com/iA_csr" target="_blank"><img src="http://csr.infoanalytica.com/img/twitter.png" alt="" class="img-social-media"></a>
                 </div>
                 <div class="col-xl-8 col-lg-8 col-md-12">
                     <div class="row mobile-margin">
@@ -24,7 +24,7 @@
                             <h6>RESOURCES</h6>
                             <ul class="footer-ul">
                                 <li><a href="#" class="company-a p-size">Case Studies</a></li>
-                                <li><a href="newsletter.php" class="company-a p-size">News</a></li>
+                                <li><a href="newsletter.php" class="company-a p-size">Newsletter</a></li>
                             </ul>
                         </div>
                         <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12">

@@ -35,10 +35,9 @@
         <div class="col-12 d-flex justify-content-center">
             <div class="card shadow" style="width: 18rem;padding-top:0px;">
                 <img src="img/newsletter_aug.png" class="card-img-top" alt="...">
-                <div class="card-body">
+                <div class="card-body text-center">
                     <h5 class="card-title">August - 2019</h5>
-                    <p class="p-size text-justify">The Imprints,’ our CSR newsletter is designed especially for our employees, partners, and affiliates which will give you updates on the latest CSR news, upcoming initiatives and some insightful trivia.</p>
-                    <a href="download/Newsletter_aug.pdf" class="btn btn-primary p-size" style="margin-top:0px!important;">Download</a>
+                    <a href="blog/the-imprints.php" class="btn btn-primary p-size mt-1">Read More</a>
                 </div>
             </div>
         </div>
@@ -48,9 +47,9 @@
 <?php include "include/footer.php" ?>
     
 
-<script src="https://code.jquery.com/jquery-2.2.0.min.js" type="text/javascript"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 
 </body>
 </html>
