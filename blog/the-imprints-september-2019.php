@@ -36,7 +36,7 @@ contributions of our employees and affiliates, who are volunteering and contribu
 equitable and sustainable communities.</p>
                 <p class="p-size">I want to thank all CSR Volunteers at infoAnalytica for their everlasting support throughout our activities and
 initiatives, and in everything that we do!</p>
-                <p class="p-size"><strong>- Pranav Gupta</strong></p>
+                <p class="p-size"><br><strong>- Pranav Gupta, Project Manager - CSR</strong></p>
 
                 <h5 class="news-date">In this issue:</h5>
                 <ul class="p-size">

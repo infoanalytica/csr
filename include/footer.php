@@ -24,7 +24,7 @@
                             <h6>RESOURCES</h6>
                             <ul class="footer-ul">
                                 <li><a href="#" class="company-a p-size">Case Studies</a></li>
-                                <li><a href="newsletter.php" class="company-a p-size">Newsletter</a></li>
+                                <li><a href="http://csr.infoanalytica.com/newsletter.php" class="company-a p-size">Newsletter</a></li>
                             </ul>
                         </div>
                         <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12">
