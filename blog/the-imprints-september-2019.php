@@ -27,7 +27,7 @@
                 <img src="../img/blog_banner_september_2019.png" class="img-fluid mt-3" alt="August blog image">
 
                 <h5 class="news-date">Editor’s Note</h5>
-                <p class="p-size">Hi Everyone,</p>
+                <p class="p-size">Hi Everyone,</p> 
                 <p class="p-size"> Welcome to the second edition of ‘The Imprints,’ our CSR newsletter designed especially for iA employees, our
 partners, and affiliates.</p>
                 <p class="p-size">This edition of ‘The Imprints’ would speak about the current affairs in the CSR industry, activities from the previous
