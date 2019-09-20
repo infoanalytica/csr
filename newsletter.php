@@ -32,12 +32,21 @@
 <!--Cards-->
 <div class="container mt-3 mb-5">
     <div class="row">
-        <div class="col-12 d-flex justify-content-center">
+        <div class="col-6 d-flex justify-content-center">
             <div class="card shadow" style="width: 18rem;padding-top:0px;">
                 <img src="img/newsletter_aug.png" class="card-img-top" alt="...">
                 <div class="card-body text-center">
                     <h5 class="card-title">August - 2019</h5>
                     <a href="blog/the-imprints.php" class="btn btn-primary p-size mt-1">Read More</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-6 d-flex justify-content-center">
+            <div class="card shadow" style="width: 18rem;padding-top:0px;">
+                <img src="img/blog_banner_sep.png" class="card-img-top" alt="...">
+                <div class="card-body text-center">
+                    <h5 class="card-title">September - 2019</h5>
+                    <a href="blog/the-imprints-september-2019.php" class="btn btn-primary p-size mt-1">Read More</a>
                 </div>
             </div>
         </div>
