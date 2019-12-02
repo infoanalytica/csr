@@ -51,7 +51,7 @@
                       <strong> Account Name:</strong> Aamod Cultural Foundation<br />
                         <strong>Bank Name:</strong> HDFC BANK<br />
                         <strong>Account No:</strong> 50100104453938<br />
-                        <strong>IFSC Code:</strong> HDFC000128<br />
+                        <strong>IFSC Code:</strong> HDFC0001285<br />
                         <strong>Branch Name:</strong> Jodhpur Cross Road<br />
 
                         <strong>P.S: Kindly send us the screenshot or transaction details once you complete the payment.</strong><br />
