@@ -121,7 +121,7 @@ live. This way we can continue to pursuit excellence in all our endeavours.</p>
                 <a href="#" style="font-style: italic;">Thank you, Maitree Patel</a>
                 
                 <h6 class="news-date mt-5">To download the digital version of the newsletter, Click on download button</h6>    
-                <a href="../download/Newsletter_november_2019" class="btn btn-primary p-size mt-1 mb-5">Download</a>
+                <a href="../download/Newsletter_november_2019.pdf" class="btn btn-primary p-size mt-1 mb-5">Download</a>
             </div>
             <div class="col-md-2"></div>
         </div>
