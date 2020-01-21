@@ -32,7 +32,7 @@
 <!--Cards-->
 <div class="container mt-3 mb-5">
     <div class="row">
-        <div class="col-4 d-flex justify-content-center">
+        <div class="col-3 d-flex justify-content-center">
             <div class="card shadow" style="width: 18rem;padding-top:0px;">
                 <img src="img/newsletter_aug.png" class="card-img-top" alt="...">
                 <div class="card-body text-center">
@@ -41,7 +41,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-4 d-flex justify-content-center">
+        <div class="col-3 d-flex justify-content-center">
             <div class="card shadow" style="width: 18rem;padding-top:0px;">
                 <img src="img/blog_banner_sep.png" class="card-img-top" alt="...">
                 <div class="card-body text-center">
@@ -50,12 +50,21 @@
                 </div>
             </div>
         </div>
-         <div class="col-4 d-flex justify-content-center">
+         <div class="col-3 d-flex justify-content-center">
             <div class="card shadow" style="width: 18rem;padding-top:0px;">
                 <img src="img/newsletter_oct.png" class="card-img-top" alt="...">
                 <div class="card-body text-center">
                     <h5 class="card-title">October - 2019</h5>
                     <a href="blog/the-imprints-october-2019.php" class="btn btn-primary p-size mt-1">Read More</a>
+                </div>
+            </div>
+        </div>	
+         <div class="col-3 d-flex justify-content-center">
+            <div class="card shadow" style="width: 18rem;padding-top:0px;">
+                <img src="img/newsletter_nov.png" class="card-img-top" alt="...">
+                <div class="card-body text-center">
+                    <h5 class="card-title">November - 2019</h5>
+                    <a href="blog/the-imprints-november-2019.php" class="btn btn-primary p-size mt-1">Read More</a>
                 </div>
             </div>
         </div>	
