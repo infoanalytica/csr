@@ -33,14 +33,15 @@
                     <li data-target="#carouselExampleCaptions" data-slide-to="4"></li>
                 </ol>
                 <div class="carousel-inner">
-                  <div class="carousel-item active">
-                      <img src="img/new/ASbanner.jpg" class="d-block w-100" alt="...">
-                      <div class="carousel-caption">
-                          <!-- <h1>SUPPORT A CAUSE</h1> -->
-                          <a href="<?php echo $server_name ?>amdavad-social.php" class="btn car-btn-support car-btn-a">KNOW MORE</a>
-                      </div>
-                  </div>
                     <div class="carousel-item">
+                        <img src="img/new/img-6.jpg" class="d-block w-100" alt="...">
+                        <div class="carousel-caption">
+                            <!-- <h1>VOLUNTEER WITH US</h1> -->
+                            <h5>Our Response to Covid-19 (Centre of the banner)</h5>
+                            <a href="blog/the-imprints-april-2020.php" class="btn car-btn-support car-btn-a">KNOW MORE</a>
+                        </div>
+                    </div>
+                    <div class="carousel-item active">
                         <img src="img/new/img-3.jpg" class="d-block w-100" alt="...">
                         <div class="carousel-caption">
                             <h5>CREATING A CULTURE FOR CHANGE.</h5>
@@ -69,8 +70,7 @@
                             <a href="#touch" class="btn car-btn-support car-btn-a">VOLUNTEER WITH US</a>
                         </div>
                     </div>
-
-                </div>
+                                    </div>
             </div>
         </div>
     </section>
@@ -89,7 +89,7 @@
             </div>
         </div>
     </section>
-
+    
     <!-- area supported -->
     <section id="supported">
         <div class="container">
@@ -130,7 +130,7 @@
                             <img src="img/sports_white.png" alt="" class="size">
                             <h4 class="card-title">Sports</h4>
                         </div>
-                    </div>
+                    </div>   
                 </div>
                 <div class="col-xl-2 col-lg-2 col-md-4 col-sm-6 d-flex justify-content-center card-div-padding">
                     <div class="card text-center text-white mb-3 front-wemp shadow-card" data-toggle="modal" data-target="#modal-wemp">
@@ -138,7 +138,7 @@
                             <img src="img/women_empoerment_white.png" alt="" class="size-we">
                             <h4 class="card-title">Women Empowerment</h4>
                         </div>
-                    </div>
+                    </div>  
                 </div>
             </div>
             <div class="row text-center">
@@ -217,7 +217,7 @@
             </div>
         </div>
     </section>
-
+   
     <!-- association -->
     <section id="association">
         <div class="container-fluid">
@@ -243,7 +243,7 @@
                             <div><img src="img/l10.png" class="assocciate-partner-logo"></div>
                             <div><img src="img/l11.png" class="assocciate-partner-logo"></div>
                         </section>
-
+                        
                     </div>
                 </div>
             </div>
@@ -287,7 +287,7 @@
                 <div class="col-lg-2"></div>
             </div>
     </section>
-
+    
     <!-- get in touch -->
     <section id="touch">
         <div class="container">
@@ -301,7 +301,7 @@
                     <form style="margin-top:2rem;" action="send.php" id="myForm" method="post">
                         <div class="form-row">
                             <div class="form-group col-md-4">
-                                <input type="text" class="form-control" id="inputName4" placeholder="NAME" name="name" required="">
+                                <input type="text" class="form-control" id="inputName4" placeholder="NAME" name="name" required=""> 
                             </div>
                             <div class="form-group col-md-4">
                                 <input type="email" class="form-control" id="inputEmail4" placeholder="EMAIL ID" name="email" required="">
@@ -330,7 +330,7 @@
                     </form>
                 </div>
             </div>
-
+                    
             </div>
     </section>
 
@@ -433,8 +433,8 @@
                     </button>
                 </div>
                 <div class="modal-body p-size text-justify">
-                    <p>IA Foundation continues to promote preventive healthcare by organizing organ donation and menstrual hygiene drives across the cities, throughout the year. Our employees organize and actively participate in blood donation drives.
-                    Under our unique “Beat the Heat” initiative, we distribute, refreshing drinks and cold-water bottles to construction workers, security guards, traffic police, etc. and, help them fight the heat and, stay hydrated.
+                    <p>IA Foundation continues to promote preventive healthcare by organizing organ donation and menstrual hygiene drives across the cities, throughout the year. Our employees organize and actively participate in blood donation drives. 
+                    Under our unique “Beat the Heat” initiative, we distribute, refreshing drinks and cold-water bottles to construction workers, security guards, traffic police, etc. and, help them fight the heat and, stay hydrated. 
                     As a cross-section of our Skill Development and Preventive Healthcare initiatives; we promote Japanese Medical Manual Therapy by Visually Impaired Physiotherapists at the Blind People’s Association, Ahmedabad.</p>
                 </div>
                 <div class="modal-footer">
@@ -494,7 +494,7 @@
                     </button>
                 </div>
                 <div class="modal-body p-size text-justify">
-                    <p>The value of sport to the societies and communities extends beyond sport for sport’s sake. Sport play a major role in youth development, bringing communities together and, developing cultural and social capital.
+                    <p>The value of sport to the societies and communities extends beyond sport for sport’s sake. Sport play a major role in youth development, bringing communities together and, developing cultural and social capital. 
                         With initiatives such as; ‘Adopt an Athlete’; infoAnalytica Foundation aims to give deserving athletes, from various endurance sports, access to the right resources to improve their performance and compete in relevant competitions, thus achieve their potential athletically.
                     </p>
                 </div>
@@ -551,7 +551,7 @@
                                 <div class="card-header" id="headingOne"  data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                                 <h2 class="mb-0">
                                     <button class="btn btn-link" type="button">
-                                        <i class="more-less fas fa-minus" style="margin-right:10px;"></i><b>Mid-Day Meal</b>
+                                        <i class="more-less fas fa-minus" style="margin-right:10px;"></i><b>Mid-Day Meal</b> 
                                     </button>
                                 </h2>
                                 </div>
@@ -580,7 +580,7 @@
                                 <div class="card-header" id="headingThree" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                                 <h2 class="mb-0">
                                     <button class="btn btn-link collapsed" type="button">
-                                        <i class="more-less fas fa-plus" style="margin-right:10px;"></i><b>Meal Distribution</b>
+                                        <i class="more-less fas fa-plus" style="margin-right:10px;"></i><b>Meal Distribution</b> 
                                     </button>
                                 </h2>
                                 </div>
@@ -594,7 +594,7 @@
                                 <div class="card-header" id="headingFour" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
                                 <h2 class="mb-0">
                                     <button class="btn btn-link collapsed" type="button">
-                                        <i class="more-less fas fa-plus" style="margin-right:10px;"></i><b>Rang De Basanti</b>
+                                        <i class="more-less fas fa-plus" style="margin-right:10px;"></i><b>Rang De Basanti</b> 
                                     </button>
                                 </h2>
                                 </div>
@@ -608,7 +608,7 @@
                                 <div class="card-header" id="headingFive"  data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
                                 <h2 class="mb-0">
                                     <button class="btn btn-link collapsed" type="button">
-                                        <i class="more-less fas fa-plus" style="margin-right:10px;"></i><b>Tree Plantation</b>
+                                        <i class="more-less fas fa-plus" style="margin-right:10px;"></i><b>Tree Plantation</b>  
                                     </button>
                                 </h2>
                                 </div>
@@ -681,7 +681,7 @@
                 </div>
             </div>
         </div>
-
+    
 
     <!-- supriya's bio -->
     <div class="modal fade" id="supriya-bio" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
@@ -715,10 +715,10 @@
         </div>
     </div>
 
-    <!-- model end-->
+    <!-- model end-->  
     <!--Footer-->
     <?php include "include/footer.php" ?>
-
+     
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
         integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
         crossorigin="anonymous"></script>
@@ -759,7 +759,7 @@
             $('.accordion').on('hide.bs.collapse', toggleIcon);
             $('.accordion').on('show.bs.collapse', toggleIcon);
     </script>
-
+    
     <!-- //end-smoth-scrolling -->
 
         <script src="https://code.jquery.com/jquery-2.2.0.min.js" type="text/javascript"></script>

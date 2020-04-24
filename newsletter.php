@@ -67,8 +67,8 @@
 </div>
 <div class="container mt-3 mb-5">
     <div class="row">
-        <div class="col-3 d-flex justify-content-center">
-          
+     <div class="col-1 d-flex justify-content-center" style="margin-left: 60px;">
+           
         </div>
         <div class="col-3 d-flex justify-content-center">
             <div class="card shadow" style="width: 18rem;padding-top:0px;">
@@ -89,10 +89,33 @@
             </div>
         </div>	
          <div class="col-3 d-flex justify-content-center">
-           
+           <div class="card shadow" style="width: 18rem;padding-top:0px;">
+                <img src="img/newsletter_feb_2020.png" class="card-img-top" alt="...">
+                <div class="card-body text-center">
+                    <h5 class="card-title">February - 2020</h5>
+                    <a href="blog/the-imprints-february-2020.php" class="btn btn-primary p-size mt-1">Read More</a>
+                </div>
+            </div>
         </div>
     </div>
 </div>
+<div class="container mt-3 mb-5">
+    <div class="row">
+     <div class="col-1 d-flex justify-content-center" style="margin-left: 60px;">
+           
+        </div>
+         <div class="col-3 d-flex justify-content-center">
+            <div class="card shadow" style="width: 18rem;padding-top:0px;">
+                <img src="img/newsletter_april_2020.png" class="card-img-top" alt="...">
+                <div class="card-body text-center">
+                    <h5 class="card-title">April - 2020</h5>
+                    <a href="blog/the-imprints-april-2020.php" class="btn btn-primary p-size mt-1">Read More</a>
+                </div>
+            </div>
+        </div>	
+     </div>
+</div>
+
 
 <!--Footer-->
 <?php include "include/footer.php" ?>
