@@ -37,7 +37,12 @@
                         <img src="img/new/img-6.jpg" class="d-block w-100" alt="...">
                         <div class="carousel-caption">
                             <!-- <h1>VOLUNTEER WITH US</h1> -->
-                            <h5>Our Response to Covid-19 (Centre of the banner)</h5>
+                            
+                            <p style="font-size: 20px; margin-left: 1400px; margin-bottom: 130px;"><a href="#" class="btn init-btn-aa" style="background-color: #ed592b; color: #ffffff;">#InThisTogether
+<br>#iAFightsCorona<br>
+#iACares</a></p>
+
+                            <h5 style="font-size: 59px;">Our Response to Covid-19</h5>
                             <a href="blog/the-imprints-april-2020.php" class="btn car-btn-support car-btn-a">KNOW MORE</a>
                         </div>
                     </div>
