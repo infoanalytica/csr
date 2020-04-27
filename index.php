@@ -38,7 +38,7 @@
                         <div class="carousel-caption">
                             <!-- <h1>VOLUNTEER WITH US</h1> -->
                             
-                            <p style="font-size: 20px; margin-left: 1400px; margin-bottom: 130px;"><a href="#" class="btn init-btn-aa" style="background-color: #ed592b; color: #ffffff;">#InThisTogether
+                            <p style="font-size: 20px; margin-left: 1080px; margin-bottom: 130px;"><a href="#" class="btn init-btn-aa" style="background-color: #ed592b; color: #ffffff;">#InThisTogether
 <br>#iAFightsCorona<br>
 #iACares</a></p>
 
