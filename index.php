@@ -33,14 +33,14 @@
                     <li data-target="#carouselExampleCaptions" data-slide-to="4"></li>
                 </ol>
                 <div class="carousel-inner">
-                    <div class="carousel-item">
+                    <div class="carousel-item active">
                         <img src="img/new/img-6.jpg" class="d-block w-100" alt="...">
                         <div class="carousel-caption">
                             <!-- <h1>VOLUNTEER WITH US</h1> -->
                             <a href="blog/the-imprints-april-2020.php" class="btn car-btn-support car-btn-a">KNOW MORE</a>
                         </div>
                     </div>
-                    <div class="carousel-item active">
+                    <div class="carousel-item">
                         <img src="img/new/img-3.jpg" class="d-block w-100" alt="...">
                         <div class="carousel-caption">
                             <h5>CREATING A CULTURE FOR CHANGE.</h5>
