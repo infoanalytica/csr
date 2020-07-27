@@ -88,7 +88,7 @@ However, we realized that the immediate need during lockdown was of food and rat
             
             
             
-             <a href="https://www.instagram.com/p/B7aZy8qHP5E/" target="_blank"><img src="../Monthly/May 2020/img/Ration Kit Distribution.jpeg" width="300" height="210" alt="alt text" align="left" hspace="10" vspace="0" style="border-style: solid;
+             <a href="https://www.instagram.com/p/B7aZy8qHP5E/" target="_blank"><img src="../monthly/may_2020/img/Ration Kit Distribution.jpeg" width="300" height="210" alt="alt text" align="left" hspace="10" vspace="0" style="border-style: solid;
   border-color: rgb(201, 76, 76); margin-left: 0px; margin-top: 8px;"></a>
                 <h4 class="news-date" style="background-color: #007bff; color: #ffffff; margin-left: 306px;
     margin-right: 83px;
@@ -106,7 +106,7 @@ One kit typically contains (Aata - 3 kgs, Rice - 2 kgs, Dal
 
 
 
-<a href="https://www.instagram.com/p/CB5GAvbHidw/" target="_blank"><img src="../Monthly/May 2020/img/Community Kitchen and Cooked Meals.jpeg" width="300" height="210" alt="alt text" align="right" hspace="10" vspace="0" style="border-style: solid;
+<a href="https://www.instagram.com/p/CB5GAvbHidw/" target="_blank"><img src="../monthly/may_2020/img/Community Kitchen and Cooked Meals.jpeg" width="300" height="210" alt="alt text" align="right" hspace="10" vspace="0" style="border-style: solid;
   border-color: rgb(201, 76, 76); margin-top: 16px;"></a></img>
                 <h4 class="news-date" align="right" style="background-color: #007bff;
     color: #ffffff;
@@ -124,7 +124,7 @@ served by Robinhood Army.</p>
 <br>    
 
 
-<a href="#" target="_blank"><img src="../Monthly/May 2020/img/Ahmedabad Runs on Chai.jpeg" width="300" height="210" alt="alt text" align="left" hspace="10" vspace="0" style="border-style: solid;
+<a href="#" target="_blank"><img src="../monthly/may_2020/img/Ahmedabad Runs on Chai.jpeg" width="300" height="210" alt="alt text" align="left" hspace="10" vspace="0" style="border-style: solid;
   border-color: rgb(201, 76, 76); margin-left: 0px; margin-top: 15px;"></a>
                 <h4 class="news-date" style="background-color: #007bff; color: #ffffff; margin-left: 306px;
     margin-right: 83px;
@@ -139,7 +139,7 @@ made with Te-cha’s collaboration.
 </p>   
 <br>
 
-<a href="#" target="_blank"><img src="../Monthly/May 2020/img/Masks Distribution.jpg" width="300" height="210" alt="alt text" align="right" hspace="10" vspace="0" style="border-style: solid;
+<a href="#" target="_blank"><img src="../monthly/may_2020/img/Masks Distribution.jpg" width="300" height="210" alt="alt text" align="right" hspace="10" vspace="0" style="border-style: solid;
   border-color: rgb(201, 76, 76); margin-top: 16px;"></a></img>
                 <h4 class="news-date" align="left" style="background-color: #007bff;
     color: #ffffff;
@@ -154,7 +154,7 @@ guards and the ones in need. For emergencies, we also
 supplied a few PPE kits to needy hospitals. </p>
 <br>  
 
-<a href="#" target="_blank"><img src="../Monthly/May 2020/img/Sending Migrant Back home.jpeg" width="300" height="210" alt="alt text" align="left" hspace="10" vspace="0" style="border-style: solid;
+<a href="#" target="_blank"><img src="../monthly/may_2020/img/Sending Migrant Back home.jpeg" width="300" height="210" alt="alt text" align="left" hspace="10" vspace="0" style="border-style: solid;
   border-color: rgb(201, 76, 76); margin-left: 0px; margin-top: 15px;"></a>
                 <h4 class="news-date" style="background-color: #007bff; color: #ffffff; margin-left: 306px;
     margin-right: 83px;
@@ -173,7 +173,7 @@ journey or immediately after.
 
   <h5 class="news-date" style="font-size: 40px; color: #8c0201;">LONG TERM INTERVENTIONS</h5>
 
-<a href="#" target="_blank"><img src="../Monthly/May 2020/img/Long Term Intervention.jpeg" width="800" height="210" alt="alt text" align="left" hspace="10" vspace="0" style="border-style: solid;
+<a href="#" target="_blank"><img src="../monthly/may_2020/img/Long Term Intervention.jpeg" width="800" height="210" alt="alt text" align="left" hspace="10" vspace="0" style="border-style: solid;
   border-color: rgb(201, 76, 76); margin-left: 0px; margin-top: 15px;"></a>
                 <h5 class="news-date" style="font-size: 25px; background-color: #007bff; color: #ffffff; margin-right: 369px; margin-top: 242px;">THE CREATIVE FELLOWSHIP</h5>
                 <p class="p-size" style="margin-top: 0px; margin-right: 0px;">The Creative Fellowship was an effort to bring the
@@ -208,7 +208,7 @@ insurance and pension products to migrant workers.
 </p>   
 <br>
 
-<a href="#" target="_blank"><img src="../Monthly/May 2020/img/Home Makers Allianze.jpeg" width="300" height="210" alt="alt text" align="left" hspace="10" vspace="0" style="border-style: solid;
+<a href="#" target="_blank"><img src="../monthly/may_2020/img/Home Makers Allianze.jpeg" width="300" height="210" alt="alt text" align="left" hspace="10" vspace="0" style="border-style: solid;
   border-color: rgb(201, 76, 76); margin-left: 0px; margin-top: 15px;"></a>
                 <h4 class="news-date" style="background-color: #007bff; color: #ffffff; margin-left: 306px;
     margin-right: 83px;
@@ -219,7 +219,7 @@ for a national legislation on recognizing housework.
 </p>   
 
 
-<a href="#" target="_blank"><img src="../Monthly/May 2020/img/Reforming Cess Act.jpeg" width="300" height="210" alt="alt text" align="right" hspace="10" vspace="0" style="border-style: solid;
+<a href="#" target="_blank"><img src="../monthly/may_2020/img/Reforming Cess Act.jpeg" width="300" height="210" alt="alt text" align="right" hspace="10" vspace="0" style="border-style: solid;
   border-color: rgb(201, 76, 76); margin-top: 95px;"></a></img>
                 <h4 class="news-date" align="left" style="background-color: #007bff;
     color: #ffffff;
@@ -233,7 +233,7 @@ builders to treat labourers as employees than having
 the government run a separate welfare board. </p>
 <br> 
 
-<a href="#" target="_blank"><img src="../Monthly/May 2020/img/The Mazdoor Campaign.jpeg" width="300" height="210" alt="alt text" align="left" hspace="10" vspace="0" style="border-style: solid;
+<a href="#" target="_blank"><img src="../monthly/may_2020/img/The Mazdoor Campaign.jpeg" width="300" height="210" alt="alt text" align="left" hspace="10" vspace="0" style="border-style: solid;
   border-color: rgb(201, 76, 76); margin-left: 0px; margin-top: 55px;"></a>
                 <h4 class="news-date" style="background-color: #007bff; color: #ffffff; margin-left: 306px;
     margin-right: 83px;
