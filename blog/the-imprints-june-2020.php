@@ -218,7 +218,7 @@ Gujarat. We want to register them, unite them and push
 for a national legislation on recognizing housework.
 </p>   
 
-
+ 
 <a href="#" target="_blank"><img src="../monthly/may_2020/img/Reforming Cess Act.jpeg" width="300" height="210" alt="alt text" align="right" hspace="10" vspace="0" style="border-style: solid;
   border-color: rgb(201, 76, 76); margin-top: 95px;"></a></img>
                 <h4 class="news-date" align="left" style="background-color: #007bff;
