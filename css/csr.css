@@ -372,19 +372,25 @@ body:not(.modal-open){
     position:relative;
 }
 .init-heading-img1{
-    width:65px;
+    width:65px !important;
     height:auto;
     bottom:0;
+    margin-left: auto;
+  margin-right: auto;
 }
 .init-heading-img2{
-    width:78px;
+    width:78px !important;
     height:auto;
     bottom:0;
+    margin-left: auto;
+  margin-right: auto;
 }
 .init-heading-img3{
-    width:78px;
+    width:78px !important;
     height:auto;
     bottom:0;
+    margin-left: auto;
+  margin-right: auto;
 }
 #initiative .col-9{
     padding-left: 1.5rem;
@@ -652,58 +658,58 @@ body:not(.modal-open){
     transition: box-shadow 0.75s;
 }
 .front-edu {
-	
-	width:  180px;
-	height: 215px;
+    
+    width:  180px;
+    height: 215px;
     background: #ed592b;
 }
 .front-edu h4{
-	
-	font-weight: 700;
+    
+    font-weight: 700;
 }
 /* card health*/
 .front-hlt {
-	
-	width:  180px;
-	height: 215px;
+    
+    width:  180px;
+    height: 215px;
     background: #0f6b37;
 }
 .front-hlt h4{
-	
-	font-weight: 700;
+    
+    font-weight: 700;
 }
 /* card heritage*/
 .front-hrtg {
-	
-	width:  180px;
-	height: 215px;
+    
+    width:  180px;
+    height: 215px;
     background: #8f683a;
 }
 .front-hrtg h4{
-	
-	font-weight: 700;
+    
+    font-weight: 700;
 }
 /* card sport */
 .front-sport {
-	
-	width:  180px;
-	height: 215px;
+    
+    width:  180px;
+    height: 215px;
     background: #118ac1;
 }
 .front-sport h4{
-	
-	font-weight: 700;
+    
+    font-weight: 700;
 }
 /* card women empowerment */
 .front-wemp {
-	
-	width:  180px;
-	height: 215px;
+    
+    width:  180px;
+    height: 215px;
     background: #f79722;
 }
 .front-wemp h4{
-	
-	font-weight: 700;
+    
+    font-weight: 700;
 }
 
 /*Media Query*/

@@ -191,7 +191,7 @@
     </section>
 
     <!-- iA initiative -->
-    <section id="initiative">
+    <!--<section id="initiative">
         <div class="container">
             <div class="row">
                 <div class="col-12 inittitle">
@@ -200,6 +200,7 @@
                 </div>
             </div>
             <div class="row">
+                <section class="customer-logos slider">
                 <div class="col-lg-3 col-md-6 col-sm-12 initcol text-center">
                     <img src="img/Doctor_Dost.png" class="init-heading-img1 cursor-point" data-toggle="modal" data-target="#doctor-dost">
                     <h1 data-toggle="modal" data-target="#doctor-dost" class="cursor-point">Doctor<br>Dost</h1>
@@ -216,6 +217,16 @@
                     <img src="img/Sab_Ke_Sapne.png" class="init-heading-img3 cursor-point" data-toggle="modal" data-target="#sabke-sapne">
                     <h1 data-toggle="modal" data-target="#sabke-sapne" class="cursor-point">Sab Ke<br>Sapne</h1>
                 </div>
+                <div class="col-lg-3 col-md-6 col-sm-12 initcol text-center">
+                    <img src="img/mazdoor.png" class="init-heading-img3 cursor-point" data-toggle="modal" data-target="#sabke-sapne">
+                    <h1 data-toggle="modal" data-target="#sabke-sapne" class="cursor-point">Mazdoor</h1>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-12 initcol text-center">
+                    <img src="img/share_the_tech.png" class="init-heading-img3 cursor-point" data-toggle="modal" data-target="#sabke-sapne">
+                    <h1 data-toggle="modal" data-target="#sabke-sapne" class="cursor-point">share the<br>Tech</h1>
+                </div>
+
+            </section>
             </div>
             <div class="row text-center">
                 <div class="col-12 initcol" style="margin:0px;">
@@ -227,6 +238,60 @@
             </div>
         </div>
     </section>
+-->
+
+    <section id="initiative">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 inittitle">
+                    <h1 class="sec-title-white">Our Initiatives</h1>
+                    <p class="p-size">Our initiatives are focused on building equitable and sustainable communities. Kindly contact us to partner, support or volunteer for these initiatives.</p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12">
+                    <div class="container-fluid" style="margin:2rem 0;">
+                        <section class="initiative-logos slider" style="margin: 0px 50px !important;">
+                            <div class="col-lg-3 col-md-6 col-sm-12 initcol text-center">
+                                <img src="img/Doctor_Dost.png" class="init-heading-img1 cursor-point" data-toggle="modal" data-target="#doctor-dost">
+                                <h1 data-toggle="modal" data-target="#doctor-dost" class="cursor-point">Doctor<br>Dost</h1>
+                            </div>
+                            <div class="col-lg-3 col-md-6 col-sm-12 initcol no-gutters text-center">
+                                <img src="img/Adopt_an_athelet.png" class="init-heading-img2 cursor-point" data-toggle="modal" data-target="#adopt-an-athlete">
+                                <h1 data-toggle="modal" data-target="#adopt-an-athlete" class="cursor-point">Adopt an<br>Athlete</h1>
+                            </div>
+                            <div class="col-lg-3 col-md-6 col-sm-12 initcol text-center">
+                                <img src="img/Be_a_book_Doner.png" class="init-heading-img3 cursor-point" data-toggle="modal" data-target="#book-donor">
+                                <h1 data-toggle="modal" data-target="#book-donor" class="cursor-point">Be A<br>Book Donor</h1>
+                            </div>
+                            <div class="col-lg-3 col-md-6 col-sm-12 initcol text-center">
+                                <img src="img/Sab_Ke_Sapne.png" class="init-heading-img3 cursor-point" data-toggle="modal" data-target="#sabke-sapne">
+                                <h1 data-toggle="modal" data-target="#sabke-sapne" class="cursor-point">Sab Ke<br>Sapne</h1>
+                            </div>
+                            <div class="col-lg-3 col-md-6 col-sm-12 initcol text-center">
+                                <a href="download/Mazdoor_web_newsletter.pdf" target="_blank" style="color:white;"><img src="img/mazdoor_new.png" class="init-heading-img3 cursor-point"></a>
+                                <a href="download/Mazdoor_web_newsletter.pdf" target="_blank" style="color:white; text-decoration: none;"><h1 data-toggle="modal" class="cursor-point">Mazdoor</h1></a>
+                            </div>
+                            <div class="col-lg-3 col-md-6 col-sm-12 initcol text-center">
+                                <a href="download/Share_the_tech_web_newsletter.pdf" target="_blank" style="color:white;"><img src="img/share_the_tech_new_2.png" class="init-heading-img3 cursor-point"></a>
+                                <a href="download/Share_the_tech_web_newsletter.pdf" target="_blank" style="color:white; text-decoration: none;"><h1 data-toggle="modal" class="cursor-point">Share the<br>Tech</h1></a>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="row text-center">
+                        <div class="col-12 initcol" style="margin:0px;">
+                            <p style="color:#fff;" class="p-size">Contact us to partner, support or enroll for any initiative.</p>
+                            <div>
+                                <a href="#touch" class="btn init-btn-aa">Know More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
    
     <!-- association -->
     <section id="association">
