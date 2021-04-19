@@ -270,7 +270,7 @@
                             </div>
                             <div class="col-lg-3 col-md-6 col-sm-12 initcol text-center">
                                 <a href="download/Mazdoor_web_newsletter.pdf" target="_blank" style="color:white;"><img src="img/mazdoor_new.png" class="init-heading-img3 cursor-point"></a>
-                                <a href="download/Mazdoor_web_newsletter.pdf" target="_blank" style="color:white; text-decoration: none;"><h1 data-toggle="modal" class="cursor-point">Mazdoor</h1></a>
+                                <a href="download/Mazdoor_web_newsletter.pdf" target="_blank" style="color:white; text-decoration: none;"><h1 data-toggle="modal" class="cursor-point">Mazdoor.co</h1></a>
                             </div>
                             <div class="col-lg-3 col-md-6 col-sm-12 initcol text-center">
                                 <a href="download/Share_the_tech_web_newsletter.pdf" target="_blank" style="color:white;"><img src="img/share_the_tech_new_2.png" class="init-heading-img3 cursor-point"></a>
