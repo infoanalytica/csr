@@ -409,23 +409,6 @@
             </div>
     </section>
 
-    <!-- covid donate -->
-    <!-- <section id="carousel" style="margin-top:40px;">
-        <div class="bd-example">
-            <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
-                
-                <div class="carousel-inner">
-                    <div class="carousel-item active">
-                        <img src="img/donate.jpeg" class="donate" alt="...">
-                        <div class="carousel-caption">
-                            <a href="https://milaap.org/fundraisers/support-aamod-cultural-foundation?mlp_referrer_id=4929909&utm_medium=created&utm_source=virtual_bank_account" target="_blank" class="btn car-btn-support car-btn-a" style="margin-bottom: -40px;">Donate</a>
-                        </div>
-                    </div>
-                 </div>
-            </div>
-        </div>
-    </section> -->
-
     <!--Testimonial -->
     <section id="testimonial">
         <div class="container">
@@ -811,7 +794,7 @@
             <div class="modal-content">
             <div class="modal-body p-size text-justify">
                     <div class="carousel-item active">
-                        <img style="height:570px; padding:0px 80px;" src="img/donate.jpeg"  alt="...">
+                        <img style="height:570px; padding:0px 80px;" src="img/Milaap_Poster.jpeg"  alt="...">
                     </div>
             </div>
             <div class="modal-footer">
