@@ -7,6 +7,16 @@ body{
     line-height: 25px;
     word-spacing: 1px;
 }
+.modal-backdrop
+{
+    opacity:0.7 !important;
+}
+.donate
+{
+    width: 100% !important;
+    height: 700px !important;
+    padding: 0px 300px 0px 300px;
+}
 .sec-title
 {
     position: relative;
@@ -876,6 +886,12 @@ body:not(.modal-open){
         width: 100%;
         height: 300px;  
     }
+    .donate
+    {
+        width: 100% !important;
+        height: 700px !important;
+        padding: 0px 0px 0px 0px;
+    }
 }
 
 @media screen and (max-width:768px){
@@ -897,6 +913,12 @@ body:not(.modal-open){
     }
     .car-four-h5{
         margin-left: -78px;
+    }
+    .donate
+    {
+        width: 100% !important;
+        height: 700px !important;
+        padding: 0px 0px 0px 0px;
     }
    
         /*about us*/
@@ -969,6 +991,12 @@ body:not(.modal-open){
     .carousel-item img{
         width: 100%;
         height: 270px;  
+    }
+    .donate
+    {
+        width: 100% !important;
+        height: 700px !important;
+        padding: 0px 0px 0px 0px;
     }
    
      /* carousel */
@@ -1055,6 +1083,12 @@ body:not(.modal-open){
     }
     .carousel-caption{
         padding-bottom: 10px;
+    }
+    .donate
+    {
+        width: 100% !important;
+        height: 700px !important;
+        padding: 0px 0px 0px 0px;
     }
 }
 
@@ -1178,6 +1212,12 @@ body:not(.modal-open){
         width: 100%;
         height: 170px;  
     }
+    .donate
+    {
+        width: 100% !important;
+        height: 700px !important;
+        padding: 0px 0px 0px 0px;
+    }
      /*association*/
      .assocciate-partner-logo{
         width: 75px !important;
@@ -1203,5 +1243,11 @@ body:not(.modal-open){
      .assocciate-partner-logo{
         width: 65px !important;
         height: 65px !important;
+    }
+    .donate
+    {
+        width: 100% !important;
+        height: 700px !important;
+        padding: 0px 0px 0px 0px;
     }
 }
