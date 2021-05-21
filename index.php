@@ -789,6 +789,21 @@
             </div>
         </div>
     </div>
+    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+            <div class="modal-content">
+            <div class="modal-body p-size text-justify">
+                    <div class="carousel-item active">
+                        <img style="height:570px; padding:0px 80px;" src="img/Milaap_Poster.jpeg"  alt="...">
+                    </div>
+            </div>
+            <div class="modal-footer">
+                <a style="font-size:16px;" href="https://milaap.org/fundraisers/support-aamod-cultural-foundation?mlp_referrer_id=4929909&utm_medium=created&utm_source=virtual_bank_account" target="_blank" class="btn car-btn-support car-btn-a">Donate</a>
+                <button type="button" class="btn btn-model-close" data-dismiss="modal">Close</button>
+            </div>
+            </div>
+        </div>
+    </div>
 
     <!-- model end-->  
     <!--Footer-->
@@ -842,5 +857,20 @@
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 
         <script src="js/carousel.js"></script>
+        <!-- <script type="text/javascript">
+            $(window).on('load', function() {
+                $('#myModal').modal('show');
+            });
+        </script> -->
+
+        <script>
+            $(document).ready(function(){
+                $("#myModal").modal('show');
+                document.getElementById("myModal").style.display = "block";
+                document.getElementById("myModal").className = "modal fade show in";
+
+
+            });
+        </script>
     </body>
 </html>

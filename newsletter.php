@@ -36,7 +36,13 @@
            
         </div>
          <div class="col-3 d-flex justify-content-center">
-            
+            <div class="card shadow" style="width: 18rem;padding-top:0px;">
+                <img src="img/newsletter_april_2020.png" class="card-img-top" alt="...">
+                <div class="card-body text-center">
+                    <h5 class="card-title">May - 2021</h5>
+                    <a href="blog/the-imprints-may-2021.php" class="btn btn-primary p-size mt-1">Read More</a>
+                </div>
+            </div>            
         </div>
         <div class="col-3 d-flex justify-content-center">
             <div class="card shadow" style="width: 18rem;padding-top:0px;">
@@ -44,6 +50,15 @@
                 <div class="card-body text-center">
                     <h5 class="card-title">June - 2020</h5>
                     <a href="blog/the-imprints-june-2020.php" class="btn btn-primary p-size mt-1">Read More</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-3 d-flex justify-content-center">
+            <div class="card shadow" style="width: 18rem;padding-top:0px;">
+                  <img src="img/newsletter_nov.png" class="card-img-top" alt="...">
+                <div class="card-body text-center">
+                    <h5 class="card-title">November - 2019</h5>
+                    <a href="blog/the-imprints-november-2019.php" class="btn btn-primary p-size mt-1">Read More</a>
                 </div>
             </div>
         </div>
@@ -59,15 +74,6 @@
     <div class="row">
      <div class="col-1 d-flex justify-content-center" style="margin-left: 60px;">
            
-        </div>
-        <div class="col-3 d-flex justify-content-center">
-            <div class="card shadow" style="width: 18rem;padding-top:0px;">
-                  <img src="img/newsletter_nov.png" class="card-img-top" alt="...">
-                <div class="card-body text-center">
-                    <h5 class="card-title">November - 2019</h5>
-                    <a href="blog/the-imprints-november-2019.php" class="btn btn-primary p-size mt-1">Read More</a>
-                </div>
-            </div>
         </div>
          <div class="col-3 d-flex justify-content-center">
             <div class="card shadow" style="width: 18rem;padding-top:0px;">
@@ -87,22 +93,6 @@
                 </div>
             </div>
         </div>
-        
-    </div>
-    
-    
-    
-    
-    
-</div>
-
-
-<div class="container mt-3 mb-5">
-    <div class="row">
-        <div class="col-1 d-flex justify-content-center" style="margin-left: 60px;">
-           
-        </div>
-        
         <div class="col-3 d-flex justify-content-center">
             <div class="card shadow" style="width: 18rem;padding-top:0px;">
                 <img src="img/newsletter_aug.png" class="card-img-top" alt="...">
@@ -111,6 +101,16 @@
                     <a href="blog/the-imprints.php" class="btn btn-primary p-size mt-1">Read More</a>
                 </div>
             </div>
+        </div>
+        
+    </div>   
+</div>
+
+
+<div class="container mt-3 mb-5">
+    <div class="row">
+        <div class="col-1 d-flex justify-content-center" style="margin-left: 60px;">
+           
         </div>
         <div class="col-3 d-flex justify-content-center">
             <div class="card shadow" style="width: 18rem;padding-top:0px;">
